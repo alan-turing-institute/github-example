@@ -1,7 +1,1 @@
-Lakeland  
-========   
-  
-Cumbria has some pretty hills, and lakes too.
-
-Mountains:
-* Helvellyn
+Lakeland is a shop which sells kitchen items.
